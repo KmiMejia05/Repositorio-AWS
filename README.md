@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/AWS-B5838D?style=flat&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/EC2-B5838D?style=flat">
   <img src="https://img.shields.io/badge/S3-B5838D?style=flat">
+  <img src="https://img.shields.io/badge/Elastic Beanstalk-B5838D?style=flat">
+  <img src="https://img.shields.io/badge/Lambda-B5838D?style=flat">
   <img src="https://img.shields.io/badge/Estado-En_progreso-E5989B?style=flat">
 </p>
 
