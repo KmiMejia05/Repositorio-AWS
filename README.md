@@ -19,8 +19,8 @@ Documento el avance sobre el Bootcamp: entregables, prácticas y evidencias orga
 | Módulo | Tema | Servicios | Entregable |
 |---|---|---|---|
 | Módulo 1 | Fundamentos de AWS | EC2, EBS, S3 | [MariaCamilaMejia-Modulo1-Examen.pdf)](./MariaCamilaMejiaArango-Modulo1-Examen.pdf) |
-| Módulo 2 | Bases,seguridad y analitica | | [MariaCamilaMejia-Modulo2-Examen1.pdf)](./MariaCamilaMejiaArango-Modulo2-Examen1.pdf) |
-| Módulo 2 | Bases,seguridad y analitica | | [MariaCamilaMejia-Modulo2-Examen2.pdf)](./MariaCamilaMejiaArango-Modulo2-Examen2.pdf) |
+| Módulo 2 | Bases,seguridad y analitica |RDS, MySQL NO AuroraMySQL | [MariaCamilaMejia-Modulo2-Examen1.pdf)](./MariaCamilaMejiaArango-Modulo2-Examen1.pdf) |
+| Módulo 2 | Bases,seguridad y analitica | Lambda, lado de datos, analitica | [MariaCamilaMejia-Modulo2-Examen2.pdf)](./MariaCamilaMejiaArango-Modulo2-Examen2.pdf) |
 
 ## Habilidades que practico
 
